@@ -1,5 +1,84 @@
 [
-    {
-        
+    {   "id":1,
+        "name":"Ashtema",
+        "img":"https://i.ibb.co/ZdfkHnX/difficulty-breathing.png",
+        "title":"Breathe easier with specialized care for your child.",
+        "description":{
+            "Why Care Matters":"In Georgia, about 1 in 10 children under age 18 has asthma—one of the highest rates in the nation—and it leads to more than half a million missed school days annually across the state. Asthma is also the No. 1 reason kids are admitted to Children’s Healthcare of Atlanta. It’s important to understand what your child’s early warning signs are, what triggers his asthma attacks, the types of medications he should take and how to create an asthma action plan.",
+            "What Is it?":"Asthma is a chronic lung condition affecting tubes called airways. These tubes carry air in and out of the lungs. In a child with asthma, airways react to certain triggers, causing: The airways to swell.Thick, sticky mucus to fill the airways. The muscles that wrap around the airways to squeez tight. Although asthma can’t be cured, it can be managed. If not well managed, it can result in emergency department visits and threaten your child’s life"
+        }
+    },
+    {   
+        "id":2,
+        "name":"Cancer",
+        "img":"https://i.ibb.co/hfShQj0/purple-ribbon.png",
+        "title":"Breathe easier with specialized care for your child.",
+        "description":{
+            "Why Care Matters":"In Georgia, about 1 in 10 children under age 18 has asthma—one of the highest rates in the nation—and it leads to more than half a million missed school days annually across the state. Asthma is also the No. 1 reason kids are admitted to Children’s Healthcare of Atlanta. It’s important to understand what your child’s early warning signs are, what triggers his asthma attacks, the types of medications he should take and how to create an asthma action plan.",
+            "What Is it?":"Asthma is a chronic lung condition affecting tubes called airways. These tubes carry air in and out of the lungs. In a child with asthma, airways react to certain triggers, causing: The airways to swell.Thick, sticky mucus to fill the airways. The muscles that wrap around the airways to squeez tight. Although asthma can’t be cured, it can be managed. If not well managed, it can result in emergency department visits and threaten your child’s life"
+        }
+    },
+    {   
+        "id":3,
+        "name":"Concussion",
+        "img":"https://i.ibb.co/pXcHbG1/mindset.png",
+        "title":"Breathe easier with specialized care for your child.",
+        "description":{
+            "Why Care Matters":"In Georgia, about 1 in 10 children under age 18 has asthma—one of the highest rates in the nation—and it leads to more than half a million missed school days annually across the state. Asthma is also the No. 1 reason kids are admitted to Children’s Healthcare of Atlanta. It’s important to understand what your child’s early warning signs are, what triggers his asthma attacks, the types of medications he should take and how to create an asthma action plan.",
+            "What Is it?":"Asthma is a chronic lung condition affecting tubes called airways. These tubes carry air in and out of the lungs. In a child with asthma, airways react to certain triggers, causing: The airways to swell.Thick, sticky mucus to fill the airways. The muscles that wrap around the airways to squeez tight. Although asthma can’t be cured, it can be managed. If not well managed, it can result in emergency department visits and threaten your child’s life"
+        }
+    },
+    {   
+        "id":4,
+        "name":"Diabetes",
+        "img":"https://i.ibb.co/mhQY5xM/diabetes-test.png",
+        "title":"Breathe easier with specialized care for your child.",
+        "description":{
+            "Why Care Matters":"In Georgia, about 1 in 10 children under age 18 has asthma—one of the highest rates in the nation—and it leads to more than half a million missed school days annually across the state. Asthma is also the No. 1 reason kids are admitted to Children’s Healthcare of Atlanta. It’s important to understand what your child’s early warning signs are, what triggers his asthma attacks, the types of medications he should take and how to create an asthma action plan.",
+            "What Is it?":"Asthma is a chronic lung condition affecting tubes called airways. These tubes carry air in and out of the lungs. In a child with asthma, airways react to certain triggers, causing: The airways to swell.Thick, sticky mucus to fill the airways. The muscles that wrap around the airways to squeez tight. Although asthma can’t be cured, it can be managed. If not well managed, it can result in emergency department visits and threaten your child’s life"
+        }
+    },
+    {   
+        "id":5,
+        "name":"Neurology",
+        "img":"https://i.ibb.co/KKcDtTm/neurology.png",
+        "title":"Breathe easier with specialized care for your child.",
+        "description":{
+            "Why Care Matters":"In Georgia, about 1 in 10 children under age 18 has asthma—one of the highest rates in the nation—and it leads to more than half a million missed school days annually across the state. Asthma is also the No. 1 reason kids are admitted to Children’s Healthcare of Atlanta. It’s important to understand what your child’s early warning signs are, what triggers his asthma attacks, the types of medications he should take and how to create an asthma action plan.",
+            "What Is it?":"Asthma is a chronic lung condition affecting tubes called airways. These tubes carry air in and out of the lungs. In a child with asthma, airways react to certain triggers, causing: The airways to swell.Thick, sticky mucus to fill the airways. The muscles that wrap around the airways to squeez tight. Although asthma can’t be cured, it can be managed. If not well managed, it can result in emergency department visits and threaten your child’s life"
+        }
+    },
+    
+    {   
+        "id":6,
+        "name":"Sergary",
+        "img":"https://i.ibb.co/Pwp64HC/surgery-tools.png",
+        "title":"Breathe easier with specialized care for your child.",
+        "description":{
+            "Why Care Matters":"In Georgia, about 1 in 10 children under age 18 has asthma—one of the highest rates in the nation—and it leads to more than half a million missed school days annually across the state. Asthma is also the No. 1 reason kids are admitted to Children’s Healthcare of Atlanta. It’s important to understand what your child’s early warning signs are, what triggers his asthma attacks, the types of medications he should take and how to create an asthma action plan.",
+            "What Is it?":"Asthma is a chronic lung condition affecting tubes called airways. These tubes carry air in and out of the lungs. In a child with asthma, airways react to certain triggers, causing: The airways to swell.Thick, sticky mucus to fill the airways. The muscles that wrap around the airways to squeez tight. Although asthma can’t be cured, it can be managed. If not well managed, it can result in emergency department visits and threaten your child’s life"
+        }
+    },
+    {   
+        "id":7,
+        "name":"Orthopedics",
+        "img":"https://i.ibb.co/sRbdSY0/broken-leg.png",
+        "title":"Breathe easier with specialized care for your child.",
+        "description":{
+            "Why Care Matters":"In Georgia, about 1 in 10 children under age 18 has asthma—one of the highest rates in the nation—and it leads to more than half a million missed school days annually across the state. Asthma is also the No. 1 reason kids are admitted to Children’s Healthcare of Atlanta. It’s important to understand what your child’s early warning signs are, what triggers his asthma attacks, the types of medications he should take and how to create an asthma action plan.",
+            "What Is it?":"Asthma is a chronic lung condition affecting tubes called airways. These tubes carry air in and out of the lungs. In a child with asthma, airways react to certain triggers, causing: The airways to swell.Thick, sticky mucus to fill the airways. The muscles that wrap around the airways to squeez tight. Although asthma can’t be cured, it can be managed. If not well managed, it can result in emergency department visits and threaten your child’s life"
+        }
+    },
+    
+    {   
+        "id":8,
+        "name":"Emergency Health",
+        "img":"https://i.ibb.co/NpwHyhx/siren.png",
+        "title":"Breathe easier with specialized care for your child.",
+        "description":{
+            "Why Care Matters":"In Georgia, about 1 in 10 children under age 18 has asthma—one of the highest rates in the nation—and it leads to more than half a million missed school days annually across the state. Asthma is also the No. 1 reason kids are admitted to Children’s Healthcare of Atlanta. It’s important to understand what your child’s early warning signs are, what triggers his asthma attacks, the types of medications he should take and how to create an asthma action plan.",
+            "What Is it?":"Asthma is a chronic lung condition affecting tubes called airways. These tubes carry air in and out of the lungs. In a child with asthma, airways react to certain triggers, causing: The airways to swell.Thick, sticky mucus to fill the airways. The muscles that wrap around the airways to squeez tight. Although asthma can’t be cured, it can be managed. If not well managed, it can result in emergency department visits and threaten your child’s life"
+        }
     }
+
 ]
